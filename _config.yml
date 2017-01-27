@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Mit's Blog
+description: Mit's blog,use Jekyll and github pages.
+keywords: 'Jack,Jalpc,blog,Jekyll,github,gh-pages'
+baseurl: ''  # if you have suburl as homepage like '/homepage', please change it to '/homepage'
+url: ''  # where is my money
+# url: "http://127.0.0.1:4000"
+img_path: '/static/assets/img/blog'  # url should be changed to 'homepage/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author:  # change following line to your infomation
+  name: 'LGZ'
+  first_name: 'GuoZhen'
+  last_name: 'Li'
+  cv: ' '
+  email: '2235926405@qq.com'
+  facebook_username: 'srcmit'
+  github_username: 'srcmit'
+  avatar: '/static/assets/img/landing/Mit.jpg'
+  skill_icon1:
+    - name: icon-python
+    - name: icon-shell
+  skill_icon2:
+    - name: icon-angular
+    - name: icon-docker
+  desc:  'I am a full stack-ism,I love everything about computers,Especially  Penetration network and
+  machine learning .and I like algorithm,So I recently in the brush problem of ACM, Besides, I like   
+ Fundamentals of computer.Finally, I hope to make a difference in the future of artificial intelligence '
+
+# comment
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: jalpc
+  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  id: UA-73784599-1
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id: a49d4901c7853da9
+
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

@@ -1,0 +1,18 @@
+# links section data
+- last_name: Ying
+  first_name: Li
+  desc: 'My best Friend.'
+  website: 'NULL'
+  email: '1873319376@qq.com'
+
+- last_name: YiRan
+  first_name: Lin
+  desc: 'parter'
+  website: 'NULL'
+  email: 'null'
+
+- last_name: wei
+  first_name: Lee
+  desc: 'Full Stack Developer.'
+  website: 'https://hellomit.github.io'
+  email: 'src.mit@gmail.com'
