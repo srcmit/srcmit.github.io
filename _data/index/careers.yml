@@ -21,7 +21,7 @@
     detail: there is nothig in the time.
     i18n: netease_des
   date:
-    detail: Dece. 2016
+    detail: Dec. 2016
     i18n: netease_date
   job:
     detail: Dev Ops
@@ -30,12 +30,12 @@
 
 - name:
     detail: System Dev
-    i18n: system dev
+    i18n: system_dev
   desc:
-    detail: In the end of the year, I started to devolpe my new system , as it's name, i don't have new idea, this is a  toy sys, the purpose to do it is Deep understanding of the underlying computer.
-    i18n: ucloud_des
+    detail: In the end of the year, I started to devolpe my new system , as it's name, i don't haveidea, this is a  toy sys, the purpose to do it is Deep understanding of the underlying computer.
+    i18n: sys_des
   date:
-    detail: Dec. 2016
+    detail: Sep. 2016
     i18n: Devsys_date
   job:
     detail: Dev Sys
@@ -49,7 +49,7 @@
     detail: At August 2015,I graduated from Highschool and started learn in my new major CS.
     i18n: college_des
   date:
-    detail: Augu. 2015
+    detail: Jul. 2015
     i18n: college_date
   job:
     detail: Student

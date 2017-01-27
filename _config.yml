@@ -3,18 +3,18 @@
 # Website settings
 title: Mit's Blog
 description: Mit's blog,use Jekyll and github pages.
-keywords: 'Jack,Jalpc,blog,Jekyll,github,gh-pages'
+keywords: 'Mit,Jalpc,blog,Jekyll,github,gh-pages'
 baseurl: ''  # if you have suburl as homepage like '/homepage', please change it to '/homepage'
-url: ''  # where is my money
+url: 'https://srcmit.github.io'  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: "http://127.0.0.1:4000"
 img_path: '/static/assets/img/blog'  # url should be changed to 'homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation
   name: 'LGZ'
-  first_name: 'GuoZhen'
-  last_name: 'Li'
-  cv: ' '
+  first_name: 'Li'
+  last_name: 'GuoZhen'
+  cv: ''
   email: '2235926405@qq.com'
   facebook_username: 'srcmit'
   github_username: 'srcmit'
@@ -25,9 +25,7 @@ author:  # change following line to your infomation
   skill_icon2:
     - name: icon-angular
     - name: icon-docker
-  desc:  'I am a full stack-ism,I love everything about computers,Especially  Penetration network and
-  machine learning .and I like algorithm,So I recently in the brush problem of ACM, Besides, I like   
- Fundamentals of computer.Finally, I hope to make a difference in the future of artificial intelligence '
+  desc: 'Hi I am a Full Stack-ism, I Like evething about computer Especially Penetration network and machine learning .and i like algorithm, So I recently in the brush problem of Acm , Besides , I like Fundamentals of Computer.'
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
