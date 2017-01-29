@@ -5,9 +5,9 @@
     i18n: nextcode
   desc:
     detail: Now I am in sophomore to learn Hack, Net, Acm and dev ops .
-    i18n: nextcode_des
+    i18n:
   date:
-    detail: Janu. 2017
+    detail: Sep. 2016
     i18n: nextcode_date
   job:
     detail: Python Developer
@@ -18,25 +18,25 @@
     detail: Nope
     i18n: nope
   desc:
-    detail: there is nothig in the time.
-    i18n: netease_des
+    detail: There is nothig in the time.
+    i18n:
   date:
-    detail: Dec. 2016
-    i18n: netease_date
+    detail: Sep. 2016
+    i18n:
   job:
     detail: Dev Ops
-    i18n: netease_job
+    i18n:
   icon: fa-gamepad
 
 - name:
     detail: System Dev
-    i18n: system_dev
+    i18n:
   desc:
     detail: In the end of the year, I started to devolpe my new system , as it's name, i don't haveidea, this is a  toy sys, the purpose to do it is Deep understanding of the underlying computer.
-    i18n: sys_des
+    i18n:
   date:
     detail: Sep. 2016
-    i18n: Devsys_date
+    i18n:
   job:
     detail: Dev Sys
     i18n: college_job
@@ -47,11 +47,11 @@
     i18n: college
   desc:
     detail: At August 2015,I graduated from Highschool and started learn in my new major CS.
-    i18n: college_des
+    i18n:
   date:
-    detail: Jul. 2015
+    detail: Sep. 2016
     i18n: college_date
   job:
     detail: Student
-    i18n: college_job
+    i18n:
   icon: fa-book
