@@ -30,5 +30,8 @@
 - name: Life
   href: '/life/'
 
+- name: Asm
+  href: '/asm/'
+
 - name: Donate
   href: '/donate/'
