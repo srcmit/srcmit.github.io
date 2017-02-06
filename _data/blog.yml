@@ -33,5 +33,8 @@
 - name: Asm
   href: '/asm/'
 
+- name: Metasploit
+  href: '/metasploit/'
+
 - name: Donate
   href: '/donate/'
