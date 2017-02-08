@@ -33,6 +33,9 @@
 - name: Asm
   href: '/asm/'
 
+- name: Book
+  href: '/book/'
+
 - name: Metasploit
   href: '/metasploit/'
 
