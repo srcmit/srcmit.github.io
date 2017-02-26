@@ -32,4 +32,7 @@ icon: icon-ruby
 ## <b>HardWare</b>
 * [PCEVA](http://bbs.pceva.com.cn/)
 
+## <b>知识库</b>
+* [WIKI](https://dumps.wikimedia.org/zhwiki/)
+
 
